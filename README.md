@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
-<h2 >Tecnologías conocidas</h2>
+<h2>ᴛᴇᴄɴᴏʟᴏɢɪᴀꜱ ᴄᴏɴᴏᴄɪᴅᴀꜱ</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
