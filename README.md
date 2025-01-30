@@ -4,7 +4,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,vscode,nodejs,mysql,sqlite,aws,firebase,gtk,azure,git,github,docker,materialui,sass,unity,visualstudio,postman,eclipse,kali,git,react,powershell,mysql,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <h2>GitHub</h2>
