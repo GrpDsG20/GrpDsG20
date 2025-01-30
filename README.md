@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías conocidas👨</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -8,6 +8,7 @@
   </a>
 </p>
 <br>
-<div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=imanmalekian31&theme=gruvbox&margin-w=10" />
+<h2>GitHub</h2>
+<div align = "left">
+  <img align="left" src= "https://github-profile-trophy.vercel.app/?username=imanmalekian31&theme=gruvbox&margin-w=10" />
 </div>
