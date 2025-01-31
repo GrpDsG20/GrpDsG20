@@ -9,10 +9,4 @@
 </p>
 
 <h2>📌 Si usaste algunos de los sistemas</h2>
-<p>
-  <a href="https://paypal.me/tuNombre">
-    <img src="![image](https://github.com/user-attachments/assets/abf61b1f-dd11-4512-a6cb-84143b4d73b8)
-" alt="Código QR" width="50" height="50">
-  </a>  
-  🔹 **PayPal**: [Haz clic para pagar en PayPal](https://paypal.me/tuNombre)
-</p>
+![Image](https://github.com/user-attachments/assets/02678b49-c95a-4635-836e-071520ca903a)
