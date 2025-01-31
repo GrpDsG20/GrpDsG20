@@ -9,10 +9,7 @@
 </p>
 
 <h2>📌 Si usaste algunos de los sistemas</h2>
-**Llena mi PayPal** o **Acepto Yape**  
-
 <p>
-  <img src="ruta_de_tu_imagen.png" alt="Código QR" width="100" align="left">  
+  <img src="URL_DE_TU_IMAGEN" alt="Código QR" width="100" align="left">  
   🔹 **PayPal**: [paypal.me/tuNombre](https://paypal.me/tuNombre)
 </p>
-
