@@ -10,6 +10,8 @@
 
 <h2>📌 Si usaste algunos de los sistemas</h2>
 <p>
-  <img src="URL_DE_TU_IMAGEN" alt="Código QR" width="100" align="left">  
-  🔹 **PayPal**: [paypal.me/tuNombre](https://paypal.me/tuNombre)
+  <a href="https://paypal.me/tuNombre">
+    <img src="URL_DE_TU_IMAGEN" alt="Código QR" width="100" align="left">
+  </a>  
+  🔹 **PayPal**: [Haz clic para pagar en PayPal](https://paypal.me/tuNombre)
 </p>
