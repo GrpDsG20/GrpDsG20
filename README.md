@@ -9,7 +9,7 @@
 </p>
 
 <h2>📌 Si usaste algunos de los sistemas</h2>
-
+<div>
 <p align="left">
   🔹 **Código QR Yape**:  
   ![Código QR](ruta_de_tu_imagen.png)  
@@ -19,3 +19,4 @@
 <p align="right">
   🔹 **PayPal**: [paypal.me/tuNombre](https://paypal.me/tuNombre)
 </p>
+</div>
