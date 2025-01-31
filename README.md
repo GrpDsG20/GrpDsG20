@@ -9,10 +9,13 @@
 </p>
 
 <h2>📌 Si usaste algunos de los sistemas</h2>
-<p>Llena mi PayPalo - Acepto Yape</p>
 
-🔹 **PayPal**: [paypal.me/tuNombre](https://paypal.me/tuNombre)  
+<p align="left">
+  🔹 **Código QR Yape**:  
+  ![Código QR](ruta_de_tu_imagen.png)  
+  *Escanea el QR para pagar a través de Yape.*
+</p>
 
-🔹 **Código QR Yape**:  
-![Código QR](ruta_de_tu_imagen.png)  
-*Escanea el QR para pagar a través de Yape.*
+<p align="right">
+  🔹 **PayPal**: [paypal.me/tuNombre](https://paypal.me/tuNombre)
+</p>
